@@ -12,6 +12,10 @@ Design intentions are:
 * Battery connector is optional and moved to the backside to save space.
 * LiPo charging circuit is optional.
 
+
+ESP-WROOM-02 eagle library is taken from
+https://github.com/ikesato/eagle-libraries/blob/master/lbr/esp-wroom-02.lbr
+
 The design is derived from Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB and Adafruit-Feather-ESP8266-HUZZAH-PCB. Please find the copy of original readme attached below.
 
 
